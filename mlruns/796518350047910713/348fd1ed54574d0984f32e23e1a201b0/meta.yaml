@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/796518350047910713/348fd1ed54574d0984f32e23e1a201b0/artifacts
+end_time: 1742373905251
+entry_point_name: ''
+experiment_id: '796518350047910713'
+lifecycle_stage: active
+run_id: 348fd1ed54574d0984f32e23e1a201b0
+run_name: adaptable-midge-267
+run_uuid: 348fd1ed54574d0984f32e23e1a201b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742373902739
+status: 3
+tags: []
+user_id: Aditya Raj

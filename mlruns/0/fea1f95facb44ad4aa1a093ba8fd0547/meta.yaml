@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fea1f95facb44ad4aa1a093ba8fd0547/artifacts
+end_time: 1742371911895
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fea1f95facb44ad4aa1a093ba8fd0547
+run_name: painted-smelt-308
+run_uuid: fea1f95facb44ad4aa1a093ba8fd0547
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742371911845
+status: 3
+tags: []
+user_id: Aditya Raj

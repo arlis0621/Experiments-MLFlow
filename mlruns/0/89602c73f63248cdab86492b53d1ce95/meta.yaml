@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/89602c73f63248cdab86492b53d1ce95/artifacts
+end_time: 1742372417297
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89602c73f63248cdab86492b53d1ce95
+run_name: zealous-fly-811
+run_uuid: 89602c73f63248cdab86492b53d1ce95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742372416661
+status: 4
+tags: []
+user_id: Aditya Raj
